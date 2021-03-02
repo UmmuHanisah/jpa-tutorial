@@ -1,0 +1,4 @@
+com\newhut\jpa\tutorial\main\UserDAOTest.class
+com\newhut\jpa\tutorial\entity\Alien.class
+com\newhut\jpa\tutorial\entity\User.class
+com\newhut\jpa\tutorial\main\App.class
