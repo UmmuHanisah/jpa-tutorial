@@ -18,10 +18,11 @@ public class UserDAOTest {
         em.getTransaction().begin();
         
         User newUser = new User();
-        newUser.setEmail("ummujoy@gmail.com");
-        newUser.setFullname("Ummu Hanisah");
-        newUser.setPassword("ummujoy");
+        newUser.setEmail("ummujoy1@gmail.com");
+        newUser.setFullname("Ummu Hanisah1");
+        newUser.setPassword("ummujoy1");
         em.persist(newUser);
+//        em.crea
         
         em.getTransaction().commit();
         em.close();
